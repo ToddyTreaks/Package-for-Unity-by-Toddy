@@ -1,0 +1,17 @@
+{
+    "name": "com.toddy.uipackage",
+    "version": "1.0.0",
+    "displayName": "UI Package - Toddy",
+    "description": "This package is a UI package for Toddy projects in Unity",
+    "unity": "2022.3",
+    "unityRelease": "0b5",
+   "keywords": [
+      "UI",
+      "Toddy"
+    ],
+    "author": {
+      "name": "Thomien Leygonie",
+      "email": "thomien.leygonie@gmail.com",
+      "url": "https://www.unity3d.com"
+    }
+  }
